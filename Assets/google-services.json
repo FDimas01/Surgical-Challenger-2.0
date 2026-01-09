@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1008163467316",
+    "project_id": "surgical-challenge",
+    "storage_bucket": "surgical-challenge.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1008163467316:android:93d694bcb77d84165ada61",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.SurgicalChallengerLIISLPO"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDKjD-wkjlTZDBZDIvsyPQpet2Rn5s3BtY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
