@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: e6182d10afa8f0f4fbcef4a4f28d9278
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5058241243838597132
+    second: anim-homem_0
+  - first:
+      213: 885696512708682239
+    second: anim-homem_1
+  - first:
+      213: 726939261548122813
+    second: anim-homem_2
+  - first:
+      213: -5039938237329825759
+    second: anim-homem_3
+  - first:
+      213: 6280530568576713380
+    second: anim-homem_4
+  - first:
+      213: -8071336456284034290
+    second: anim-homem_5
+  - first:
+      213: 6811617319336705771
+    second: anim-homem_6
+  - first:
+      213: 5057436843353427545
+    second: anim-homem_7
+  - first:
+      213: -7028617295266125030
+    second: anim-homem_8
+  - first:
+      213: -2681035121903172689
+    second: anim-homem_9
+  - first:
+      213: 7788121959337825577
+    second: anim-homem_10
+  - first:
+      213: -4805235254609115507
+    second: anim-homem_11
+  - first:
+      213: 1735065042561536292
+    second: anim-homem_12
+  - first:
+      213: 2763787652402412788
+    second: anim-homem_13
+  - first:
+      213: 2200243907622486734
+    second: anim-homem_14
+  - first:
+      213: -4244241845919756743
+    second: anim-homem_15
+  - first:
+      213: -5627797377271739613
+    second: anim-homem_16
+  - first:
+      213: 1993375372781037134
+    second: anim-homem_17
+  - first:
+      213: -5761199221740661440
+    second: anim-homem_18
+  - first:
+      213: -4291812126371452915
+    second: anim-homem_19
+  - first:
+      213: -1519948719076610822
+    second: anim-homem_20
+  - first:
+      213: 5039869077754894412
+    second: anim-homem_21
+  - first:
+      213: -5397666746296239892
+    second: anim-homem_22
+  - first:
+      213: 143154913294874572
+    second: anim-homem_23
+  - first:
+      213: -6865426721216396832
+    second: anim-homem_24
+  - first:
+      213: 3414662197131986571
+    second: anim-homem_25
+  - first:
+      213: -7569998030966120050
+    second: anim-homem_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim-homem_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f735c073648dc9b0800000000000000
+      internalID: -5058241243838597132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_1
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 586
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1adc22940aa4c00800000000000000
+      internalID: 885696512708682239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_2
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 295
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db25cd9286b961a00800000000000000
+      internalID: 726939261548122813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1202c0a30ea8e0ab0800000000000000
+      internalID: -5039938237329825759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a24ff4c64de82750800000000000000
+      internalID: 6280530568576713380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0ba78cb14adcff80800000000000000
+      internalID: -8071336456284034290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_6
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee76f8ccd9b78e50800000000000000
+      internalID: 6811617319336705771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95ecd0a7300af2640800000000000000
+      internalID: 5057436843353427545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 583
+        width: 155
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1bee752fc5557e90800000000000000
+      internalID: -7028617295266125030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 295
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa38d98e2cc0bcad0800000000000000
+      internalID: -2681035121903172689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_10
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 295
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92510c5a8a7f41c60800000000000000
+      internalID: 7788121959337825577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8607d2ceff505db0800000000000000
+      internalID: -4805235254609115507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 292
+        width: 119
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4211414a670341810800000000000000
+      internalID: 1735065042561536292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 292
+        width: 118
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc7e080a32fa5620800000000000000
+      internalID: 2763787652402412788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 292
+        width: 119
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec24e053d26d88e10800000000000000
+      internalID: 2200243907622486734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 292
+        width: 116
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93eca11378c6915c0800000000000000
+      internalID: -4244241845919756743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 293
+        width: 116
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32bc7db4a1c06e1b0800000000000000
+      internalID: -5627797377271739613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_17
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 292
+        width: 117
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4620a61754e9ab10800000000000000
+      internalID: 1993375372781037134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04514ebf4db1c00b0800000000000000
+      internalID: -5761199221740661440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_19
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d086aec2c9b6074c0800000000000000
+      internalID: -4291812126371452915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 25
+        width: 111
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c485e0e493631f540800000000000000
+      internalID: 5039869077754894412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 25
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8f21b31b2a715b0800000000000000
+      internalID: -5397666746296239892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 24
+        width: 105
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7faca92a69cf100800000000000000
+      internalID: 143154913294874572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 25
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e10c6a85ca19b0a0800000000000000
+      internalID: -6865426721216396832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_25
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 25
+        width: 107
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86c1083d21536f20800000000000000
+      internalID: 3414662197131986571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_26
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 25
+        width: 104
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81abddf5e6f1f690800000000000000
+      internalID: -7569998030966120050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_27
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cfa457e912fd040a775c1660dfabcf
+      internalID: 132337780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb5225ceb957b84ea34d820eacf5fe2
+      internalID: -1519948719076610822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_28
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5454f4de71a3c6e4990640bcc0a999d5
+      internalID: -1633506473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem_29
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2973b2daae939a24b9a4de0b3023a0d5
+      internalID: -1718707236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3fcfeb2f88c4ffe469fdbcf0adcadb8f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anim-homem_0: -5058241243838597132
+      anim-homem_1: 885696512708682239
+      anim-homem_10: 7788121959337825577
+      anim-homem_11: -4805235254609115507
+      anim-homem_12: 1735065042561536292
+      anim-homem_13: 2763787652402412788
+      anim-homem_14: 2200243907622486734
+      anim-homem_15: -4244241845919756743
+      anim-homem_16: -5627797377271739613
+      anim-homem_17: 1993375372781037134
+      anim-homem_18: -5761199221740661440
+      anim-homem_19: -4291812126371452915
+      anim-homem_2: 726939261548122813
+      anim-homem_20: -1519948719076610822
+      anim-homem_21: 5039869077754894412
+      anim-homem_22: -5397666746296239892
+      anim-homem_23: 143154913294874572
+      anim-homem_24: -6865426721216396832
+      anim-homem_25: 3414662197131986571
+      anim-homem_26: -7569998030966120050
+      anim-homem_27: 132337780
+      anim-homem_28: -1633506473
+      anim-homem_29: -1718707236
+      anim-homem_3: -5039938237329825759
+      anim-homem_4: 6280530568576713380
+      anim-homem_5: -8071336456284034290
+      anim-homem_6: 6811617319336705771
+      anim-homem_7: 5057436843353427545
+      anim-homem_8: -7028617295266125030
+      anim-homem_9: -2681035121903172689
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

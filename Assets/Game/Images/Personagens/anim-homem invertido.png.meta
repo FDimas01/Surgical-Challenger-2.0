@@ -1,0 +1,846 @@
+fileFormatVersion: 2
+guid: 10a42042e84795644bdaf66634142928
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2577919781428237907
+    second: anim-homem invertido_0
+  - first:
+      213: -719674810842884162
+    second: anim-homem invertido_1
+  - first:
+      213: 7248866115293334404
+    second: anim-homem invertido_2
+  - first:
+      213: -8809541712320882504
+    second: anim-homem invertido_3
+  - first:
+      213: 824091998853447857
+    second: anim-homem invertido_4
+  - first:
+      213: -3012365803129622671
+    second: anim-homem invertido_5
+  - first:
+      213: 5280575973773434980
+    second: anim-homem invertido_6
+  - first:
+      213: 5549793313421121567
+    second: anim-homem invertido_7
+  - first:
+      213: -2034593349942226071
+    second: anim-homem invertido_8
+  - first:
+      213: 565037375080527370
+    second: anim-homem invertido_9
+  - first:
+      213: 447693873861309176
+    second: anim-homem invertido_10
+  - first:
+      213: 3882461267825915289
+    second: anim-homem invertido_11
+  - first:
+      213: 6475270268907932322
+    second: anim-homem invertido_12
+  - first:
+      213: -732012622515168628
+    second: anim-homem invertido_13
+  - first:
+      213: -6043227638719626352
+    second: anim-homem invertido_14
+  - first:
+      213: 4189142977035203097
+    second: anim-homem invertido_15
+  - first:
+      213: -6133681089743352597
+    second: anim-homem invertido_16
+  - first:
+      213: -5611052714423962340
+    second: anim-homem invertido_17
+  - first:
+      213: 4996068542728160901
+    second: anim-homem invertido_18
+  - first:
+      213: -302665562079117865
+    second: anim-homem invertido_19
+  - first:
+      213: 6947313789485103695
+    second: anim-homem invertido_20
+  - first:
+      213: -1234263729173932507
+    second: anim-homem invertido_21
+  - first:
+      213: -1756381131784307643
+    second: anim-homem invertido_22
+  - first:
+      213: -4394290027218197320
+    second: anim-homem invertido_23
+  - first:
+      213: -7479921493056195080
+    second: anim-homem invertido_24
+  - first:
+      213: 824528967860323699
+    second: anim-homem invertido_25
+  - first:
+      213: -4970975658146734633
+    second: anim-homem invertido_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim-homem invertido_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da964800e93693cd0800000000000000
+      internalID: -2577919781428237907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_1
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d9e192933306f0800000000000000
+      internalID: -719674810842884162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_2
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48bcc626355299460800000000000000
+      internalID: 7248866115293334404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b89023dc783eb580800000000000000
+      internalID: -8809541712320882504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0c6e58e43cf6b00800000000000000
+      internalID: 824091998853447857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17face2234de136d0800000000000000
+      internalID: -3012365803129622671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_6
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4606a36dedf584940800000000000000
+      internalID: 5280575973773434980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_7
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18dd4f4d93d40d40800000000000000
+      internalID: 5549793313421121567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_8
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9635252c02ca3c3e0800000000000000
+      internalID: -2034593349942226071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_9
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 292
+        width: 117
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a067e7abf7a67d700800000000000000
+      internalID: 565037375080527370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_10
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 293
+        width: 116
+        height: 279
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f23f9fc437863600800000000000000
+      internalID: 447693873861309176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_11
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 292
+        width: 116
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 995f9f2f3f541e530800000000000000
+      internalID: 3882461267825915289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 292
+        width: 119
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aac7ea8008ccd950800000000000000
+      internalID: 6475270268907932322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_13
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 292
+        width: 118
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a91efe56e57d5f0800000000000000
+      internalID: -732012622515168628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 292
+        width: 119
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0934b412b74222ca0800000000000000
+      internalID: -6043227638719626352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_15
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 294
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9127183b753d22a30800000000000000
+      internalID: 4189142977035203097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_16
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 294
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec0158eb89c0eaa0800000000000000
+      internalID: -6133681089743352597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_17
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 294
+        width: 111
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15b4cce8498122b0800000000000000
+      internalID: -5611052714423962340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_18
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 25
+        width: 104
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 586c0da8ed9955540800000000000000
+      internalID: 4996068542728160901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_19
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 25
+        width: 107
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ddb78e5647bccbf0800000000000000
+      internalID: -302665562079117865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_20
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 25
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4abe654511d96060800000000000000
+      internalID: 6947313789485103695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_21
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 24
+        width: 105
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526507f7da30fdee0800000000000000
+      internalID: -1234263729173932507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_22
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 25
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c3cc59aa410a7e0800000000000000
+      internalID: -1756381131784307643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_23
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 25
+        width: 111
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b42e9f80885403c0800000000000000
+      internalID: -4394290027218197320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_24
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f5739a480bf13890800000000000000
+      internalID: -7479921493056195080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_25
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 27
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 375855c4ab0517b00800000000000000
+      internalID: 824528967860323699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-homem invertido_27
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 26
+        width: 105
+        height: 251
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17f9419a2af8da4d812e0b2680d994e
+      internalID: -1858172639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 8ed7220c8dbd4b94ab31387c781ac59c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anim-homem invertido_0: -2577919781428237907
+      anim-homem invertido_1: -719674810842884162
+      anim-homem invertido_10: 447693873861309176
+      anim-homem invertido_11: 3882461267825915289
+      anim-homem invertido_12: 6475270268907932322
+      anim-homem invertido_13: -732012622515168628
+      anim-homem invertido_14: -6043227638719626352
+      anim-homem invertido_15: 4189142977035203097
+      anim-homem invertido_16: -6133681089743352597
+      anim-homem invertido_17: -5611052714423962340
+      anim-homem invertido_18: 4996068542728160901
+      anim-homem invertido_19: -302665562079117865
+      anim-homem invertido_2: 7248866115293334404
+      anim-homem invertido_20: 6947313789485103695
+      anim-homem invertido_21: -1234263729173932507
+      anim-homem invertido_22: -1756381131784307643
+      anim-homem invertido_23: -4394290027218197320
+      anim-homem invertido_24: -7479921493056195080
+      anim-homem invertido_25: 824528967860323699
+      anim-homem invertido_26: -4970975658146734633
+      anim-homem invertido_27: -1858172639
+      anim-homem invertido_3: -8809541712320882504
+      anim-homem invertido_4: 824091998853447857
+      anim-homem invertido_5: -3012365803129622671
+      anim-homem invertido_6: 5280575973773434980
+      anim-homem invertido_7: 5549793313421121567
+      anim-homem invertido_8: -2034593349942226071
+      anim-homem invertido_9: 565037375080527370
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

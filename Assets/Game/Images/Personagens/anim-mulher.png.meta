@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: 5decb1154de569e4596f467774ec37c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1954005537731812015
+    second: anim-mulher_0
+  - first:
+      213: -2831418103526532118
+    second: anim-mulher_1
+  - first:
+      213: -2332805546577341785
+    second: anim-mulher_2
+  - first:
+      213: -5480322791669203939
+    second: anim-mulher_3
+  - first:
+      213: -1641919611931659495
+    second: anim-mulher_4
+  - first:
+      213: 465294852390068373
+    second: anim-mulher_5
+  - first:
+      213: -689398694184996450
+    second: anim-mulher_6
+  - first:
+      213: 458320342564366415
+    second: anim-mulher_7
+  - first:
+      213: -8229111306309132847
+    second: anim-mulher_8
+  - first:
+      213: 3344784753735773405
+    second: anim-mulher_9
+  - first:
+      213: 1421167002078319880
+    second: anim-mulher_10
+  - first:
+      213: 7702768365069112468
+    second: anim-mulher_11
+  - first:
+      213: -5470681054439891423
+    second: anim-mulher_12
+  - first:
+      213: -4501291607702200967
+    second: anim-mulher_13
+  - first:
+      213: -3843006979194941887
+    second: anim-mulher_14
+  - first:
+      213: 5378158925834385441
+    second: anim-mulher_15
+  - first:
+      213: 4342269597502804910
+    second: anim-mulher_16
+  - first:
+      213: 414522222676694196
+    second: anim-mulher_17
+  - first:
+      213: 2685033623699894696
+    second: anim-mulher_18
+  - first:
+      213: 3269746168064925426
+    second: anim-mulher_19
+  - first:
+      213: 5601988613216787387
+    second: anim-mulher_20
+  - first:
+      213: -1545548439022165339
+    second: anim-mulher_21
+  - first:
+      213: -3667069640109298064
+    second: anim-mulher_22
+  - first:
+      213: 3915754544975813450
+    second: anim-mulher_23
+  - first:
+      213: -8740011413306069499
+    second: anim-mulher_24
+  - first:
+      213: -4452244582063904099
+    second: anim-mulher_25
+  - first:
+      213: -4994101731017083311
+    second: anim-mulher_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: anim-mulher_0
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa96ad0fa50e1b10800000000000000
+      internalID: 1954005537731812015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_1
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebd0b08c38c4b8d0800000000000000
+      internalID: -2831418103526532118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_2
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 585
+        width: 110
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2523217b530afd0800000000000000
+      internalID: -2332805546577341785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_3
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c741cf47bf1f3b0800000000000000
+      internalID: -5480322791669203939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_4
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913f01defcab639e0800000000000000
+      internalID: -1641919611931659495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5902788f33f057600800000000000000
+      internalID: 465294852390068373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_6
+      rect:
+        serializedVersion: 2
+        x: 866
+        y: 583
+        width: 115
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e913c7c4a83ce66f0800000000000000
+      internalID: -689398694184996450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_7
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 583
+        width: 114
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4862eb5ce74c5600800000000000000
+      internalID: 458320342564366415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_8
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 583
+        width: 155
+        height: 275
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd1b4addd25ccd80800000000000000
+      internalID: -8229111306309132847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_9
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 294
+        width: 111
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc209813001b6e20800000000000000
+      internalID: 3344784753735773405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_10
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 294
+        width: 111
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8059265dbdff8b310800000000000000
+      internalID: 1421167002078319880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 294
+        width: 111
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4949f0b540bb5ea60800000000000000
+      internalID: 7702768365069112468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_12
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 291
+        width: 119
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e96aed09c3414b0800000000000000
+      internalID: -5470681054439891423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 291
+        width: 119
+        height: 282
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9674b1233881c0800000000000000
+      internalID: -4501291607702200967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_14
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 291
+        width: 119
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e0db77385eaaac0800000000000000
+      internalID: -3843006979194941887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_15
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 291
+        width: 117
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12874ff5c0f03aa40800000000000000
+      internalID: 5378158925834385441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_16
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 292
+        width: 116
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3122e4137d24c30800000000000000
+      internalID: 4342269597502804910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_17
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 292
+        width: 116
+        height: 280
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4562ae3cda0c500800000000000000
+      internalID: 414522222676694196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_18
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 103
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1bc96dad7234520800000000000000
+      internalID: 2685033623699894696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_19
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 25
+        width: 103
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fe5435e0d8706d20800000000000000
+      internalID: 3269746168064925426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_20
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 25
+        width: 103
+        height: 249
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbbd19e86f24ebd40800000000000000
+      internalID: 5601988613216787387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_21
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 23
+        width: 111
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a2ace422eb1d8ae0800000000000000
+      internalID: -1545548439022165339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_22
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 23
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e6aae5793fb1dc0800000000000000
+      internalID: -3667069640109298064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_23
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 22
+        width: 105
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b97e8130e875630800000000000000
+      internalID: 3915754544975813450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_24
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 23
+        width: 108
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50e28091ded35b680800000000000000
+      internalID: -8740011413306069499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_25
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 23
+        width: 107
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a6ce044237632c0800000000000000
+      internalID: -4452244582063904099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: anim-mulher_26
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 22
+        width: 106
+        height: 255
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156309e7fe261bab0800000000000000
+      internalID: -4994101731017083311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 678b99fe6499c3849b12657f9b9b33c1
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      anim-mulher_0: 1954005537731812015
+      anim-mulher_1: -2831418103526532118
+      anim-mulher_10: 1421167002078319880
+      anim-mulher_11: 7702768365069112468
+      anim-mulher_12: -5470681054439891423
+      anim-mulher_13: -4501291607702200967
+      anim-mulher_14: -3843006979194941887
+      anim-mulher_15: 5378158925834385441
+      anim-mulher_16: 4342269597502804910
+      anim-mulher_17: 414522222676694196
+      anim-mulher_18: 2685033623699894696
+      anim-mulher_19: 3269746168064925426
+      anim-mulher_2: -2332805546577341785
+      anim-mulher_20: 5601988613216787387
+      anim-mulher_21: -1545548439022165339
+      anim-mulher_22: -3667069640109298064
+      anim-mulher_23: 3915754544975813450
+      anim-mulher_24: -8740011413306069499
+      anim-mulher_25: -4452244582063904099
+      anim-mulher_26: -4994101731017083311
+      anim-mulher_3: -5480322791669203939
+      anim-mulher_4: -1641919611931659495
+      anim-mulher_5: 465294852390068373
+      anim-mulher_6: -689398694184996450
+      anim-mulher_7: 458320342564366415
+      anim-mulher_8: -8229111306309132847
+      anim-mulher_9: 3344784753735773405
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
